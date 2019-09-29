@@ -1,0 +1,7 @@
+numpy:
+  - NUMPY
+pandas:
+  - PANDAS
+full:
+  - NUMPY
+  - PANDAS
