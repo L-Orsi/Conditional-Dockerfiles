@@ -1,3 +1,3 @@
 build:
-	g++ -o -Wall --pedantic dockif_build main.cpp
+	g++ -Wall --pedantic -o dockif_build main.cpp
 
